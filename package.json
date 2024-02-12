@@ -5,7 +5,7 @@
     "url": "git+https://github.com/Simpson-Computer-Technologies-Research/react-vite-component-lib"
   },
   "private": false,
-  "version": "0.0.140",
+  "version": "0.0.100",
   "type": "module",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
